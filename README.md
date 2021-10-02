@@ -13,4 +13,4 @@ Steps taken:
   * 7 Learn using Multi-layer Perceptron regressor
   * 8 Predict (prepare the new image using steps 1-6)
   
-  Accuracy: 95%
+  :white_check_mark: Accuracy: 95%
