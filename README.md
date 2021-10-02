@@ -1,7 +1,7 @@
 
 ### Blood Glucose Level Estimation using test papers
 
-A dataset comprises 1000 glucose test papers were used in this project.
+A dataset comprising 1000 glucose test papers were used in this project.
 
 Steps taken:
   * 1 Find the extreme points and locate the big circle
