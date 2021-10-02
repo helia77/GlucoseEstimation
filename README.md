@@ -15,5 +15,9 @@ Steps taken:
   
   :white_check_mark: Accuracy: 95%
   
-  Sample test paper:
-  <img src = "Images/Sample Test Paper.jpg">
+  <p><b>Sample test paper:</b></p>
+  <img src = "Images/Sample Test Paper.jpg" width=300>
+  
+  <p><b>Extracted RGB matrix:</b></p>
+  <img src = "Images/Extracted RGB.jpg" width=300>
+  
