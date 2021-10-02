@@ -14,3 +14,6 @@ Steps taken:
   * 8 Predict (prepare the new image using steps 1-6)
   
   :white_check_mark: Accuracy: 95%
+  
+  Sample test paper:
+  <img src = "Images/Sample Test Paper.jpg">
